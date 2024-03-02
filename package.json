@@ -1,0 +1,21 @@
+{
+  "name": "maximum-number",
+  "version": "1.0.0",
+  "description": "Finding the maximum of two numbers",
+  "main": "src/index.js",
+  "keywords": ["maximum-number"],
+  "author": "jessesy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessesy/maximum-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jessesy/maximum-number/issues"
+  },
+  "homepage": "https://github.com/jessesy/maximum-number#readme",
+  "dependencies": {
+    "round-date": "1.1.2",
+    "dotenv": "^16.4.5"
+  }
+}
